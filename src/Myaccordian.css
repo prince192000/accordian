@@ -1,0 +1,45 @@
+.container{
+    min-height: 100vh;
+    width: 100%;
+    background: #272343;
+    text-align: center;
+    padding: 30px;
+}
+.accordian_conatiner{
+    width:35vw;
+    min-height: 60vh;
+    background: #f76b8a;
+padding:10px 10px;
+margin: auto;
+border-radius: 10px;
+}
+h1{
+
+  color: white;
+
+  border-radius: 10px;
+}
+.ques_ans{
+ display: flex;
+ align-items: center;
+    width:  100%;
+    background: white;
+    margin: 10px 0;
+    padding:  10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.plus{
+ cursor: pointer;
+
+margin-right: 20px;
+    background: #f68fa6;
+   
+    border-radius:50%;
+    font-size: 15px;
+    font-weight: bold;
+}
+.para{
+    background: #fe8aa3;
+}
